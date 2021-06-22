@@ -296,29 +296,8 @@ a {
   color: teal;
 }
 
-.mc-field-group {
-  margin: 1rem;
-}
-
-input#mc-embedded-subscribe {
-  background: teal;
-  color: white;
-  font-weight: bold;
-  padding: 0.5rem 1rem;
-  border: none;
-  margin-left: 1rem;
-}
-
 span.asterisk {
   color: red;
-}
-
-input#mce-EMAIL,
-input#mce-FNAME,
-input#mce-LNAME {
-  padding: 0.3rem;
-  display: block;
-  width: 90%;
 }
 
 #headerImage,
@@ -336,12 +315,5 @@ img {
   #headerImage,
 .aboutImage /* this is the id of the image*/ {
     width: 778px;
-  }
-
-  input#mce-EMAIL,
-  input#mce-FNAME,
-  input#mce-LNAME {
-    display: inline;
-    width: 200px;
   }
 }
