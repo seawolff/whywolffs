@@ -296,6 +296,10 @@ a {
   color: teal;
 }
 
+#mc_embed_signup form {
+  padding-left: 0 !important;
+}
+
 span.asterisk {
   color: red;
 }
